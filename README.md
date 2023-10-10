@@ -51,4 +51,4 @@ This script was created as a simple utility to synchronize folders and can be fu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
