@@ -26,8 +26,8 @@ Before using this script, ensure that you have:
 3. Run the script with the following command:
 
 ```bash
-python sync_folders.py source_folder_path replica_folder_path log_file_path synchronization_interval```
-
+python sync_folders.py source_folder_path replica_folder_path log_file_path synchronization_interval
+```
 Replace the placeholders with actual paths and values:
 
 - `source_folder_path`: The path to the source folder you want to synchronize.
