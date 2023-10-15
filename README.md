@@ -15,7 +15,6 @@ This Python script is designed to synchronize the contents of two folders. It mo
 Before using this script, ensure that you have:
 
 - Python 3.x installed on your system.
-- Required Python packages installed (you can install them using `pip install -r requirements.txt`).
 
 ## Usage
 
